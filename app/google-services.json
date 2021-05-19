@@ -7,35 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:460603343543:android:9e99e859a95eac9c96c332",
-        "android_client_info": {
-          "package_name": "com.example.clonebasicuber"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "460603343543-u99b8fglfh6o8tunhrrf8091f8pi0n2u.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyChG-l0qEGQw8J9iNbXhd9rPKKx5MAC9FY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "460603343543-u99b8fglfh6o8tunhrrf8091f8pi0n2u.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:460603343543:android:f78216c6dda6def496c332",
         "android_client_info": {
           "package_name": "com.example.uberclonebasic"
