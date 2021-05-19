@@ -1,0 +1,25 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/drawable/tab_selector.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/activity_main.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/activity_register.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/chat_fragment.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/layout_chat_item.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/layout_message_friend.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/layout_message_picture_friend.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/layout_message_picture_own.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/layout_message_text_friend.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/layout_message_text_own.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/layout_people.xml" value="0.1" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/ChatAppAndroid/app/src/main/res/layout/people_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/clonebasicuber/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/CESARSUAREZ/AndroidStudioProjects/uberclonebasic/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
